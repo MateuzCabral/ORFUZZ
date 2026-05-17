@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 ORFuzz - Open Redirect Vulnerability Fuzzer
 For security research and bug bounty hunting.
